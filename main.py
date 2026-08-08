@@ -8,7 +8,7 @@ from playsound import playsound
 # Cohere API
 # =========================
 
-API_KEY = "cohere_hbQaBDdzk9wGMz0LGnP7AtYNCxrJEL4TnCONeZQy28XIUb"
+API_KEY = "YOUR_COHERE_API_KEY"
 
 co = cohere.ClientV2(api_key=API_KEY)
 
