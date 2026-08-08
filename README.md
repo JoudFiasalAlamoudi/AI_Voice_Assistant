@@ -99,11 +99,11 @@ The audio is then played automatically using Playsound.
 ▶️ Automatic Audio Playback
 ```
 
+
+
 ## 🎥 Demo Video
 
-The following video demonstrates the complete Voice-to-Voice AI Assistant process.
-
-**Video Project.mp4**
+▶️ [Watch the Demo Video](https://github.com/JoudFiasalAlamoudi/AI-Voice-Assistant/blob/main/Video%20Project.mp4)
 
 The demonstration shows:
 
