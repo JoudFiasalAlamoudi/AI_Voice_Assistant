@@ -104,8 +104,6 @@ The audio is then played automatically using Playsound.
 
 ## 🎥 Demo Video
 
-▶️ [Watch the Demo Video](https://github.com/JoudFiasalAlamoudi/AI-Voice-Assistant/blob/main/Video%20Project.mp4)
-
 📁 Video Project.mp4
 
 The demonstration shows:
