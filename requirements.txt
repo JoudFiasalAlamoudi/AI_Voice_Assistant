@@ -1,0 +1,6 @@
+
+SpeechRecognition
+cohere
+edge-tts
+PyAudio
+playsound==1.2.2

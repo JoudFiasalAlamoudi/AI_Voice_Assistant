@@ -1,0 +1,8 @@
+
+venv/
+venv313/
+.env
+response.mp3
+voice.wav
+__pycache__/
+*.pyc
